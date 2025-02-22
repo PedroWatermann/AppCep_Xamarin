@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = AppCep
+build_property.ProjectDir = C:\Users\pedro\source\repos\PedroWatermann\AppCep_Xamarin\AppCep\AppCep\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

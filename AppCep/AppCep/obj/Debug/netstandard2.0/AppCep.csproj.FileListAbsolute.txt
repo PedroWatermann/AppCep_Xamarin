@@ -1,0 +1,16 @@
+C:\Users\pedro\source\repos\PedroWatermann\AppCep\AppCep\AppCep\bin\Debug\netstandard2.0\AppCep.deps.json
+C:\Users\pedro\source\repos\PedroWatermann\AppCep\AppCep\AppCep\bin\Debug\netstandard2.0\AppCep.dll
+C:\Users\pedro\source\repos\PedroWatermann\AppCep\AppCep\AppCep\bin\Debug\netstandard2.0\ref\AppCep.dll
+C:\Users\pedro\source\repos\PedroWatermann\AppCep\AppCep\AppCep\bin\Debug\netstandard2.0\AppCep.pdb
+C:\Users\pedro\source\repos\PedroWatermann\AppCep\AppCep\AppCep\obj\Debug\netstandard2.0\AppCep.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\PedroWatermann\AppCep\AppCep\AppCep\obj\Debug\netstandard2.0\AppCep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\PedroWatermann\AppCep\AppCep\AppCep\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pedro\source\repos\PedroWatermann\AppCep\AppCep\AppCep\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pedro\source\repos\PedroWatermann\AppCep\AppCep\AppCep\obj\Debug\netstandard2.0\AppCep.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\PedroWatermann\AppCep\AppCep\AppCep\obj\Debug\netstandard2.0\AppCep.AssemblyInfo.cs
+C:\Users\pedro\source\repos\PedroWatermann\AppCep\AppCep\AppCep\obj\Debug\netstandard2.0\AppCep.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\PedroWatermann\AppCep\AppCep\AppCep\obj\Debug\netstandard2.0\AppCep.sourcelink.json
+C:\Users\pedro\source\repos\PedroWatermann\AppCep\AppCep\AppCep\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pedro\source\repos\PedroWatermann\AppCep\AppCep\AppCep\obj\Debug\netstandard2.0\AppCep.dll
+C:\Users\pedro\source\repos\PedroWatermann\AppCep\AppCep\AppCep\obj\Debug\netstandard2.0\refint\AppCep.dll
+C:\Users\pedro\source\repos\PedroWatermann\AppCep\AppCep\AppCep\obj\Debug\netstandard2.0\AppCep.pdb
